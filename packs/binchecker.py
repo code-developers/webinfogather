@@ -1,6 +1,6 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 #coding: utf-8
-#imports
+
 import requests
 import json
 

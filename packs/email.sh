@@ -1,5 +1,5 @@
 #!/bin/bash
-#colors
+#Colors as well
 white="\033[1;37m"
 grey="\033[0;37m"
 purple="\033[0;35m"
@@ -15,3 +15,4 @@ nc="\e[0m"
 api_key=bff73852e85b728070baaa0136b15916
 read -p "        $(echo -e $red[$green+$red]$nc) $(echo -e $white Enter Your Email : $nc )" email
 curl "http://apilayer.net/api/check?access_key=$api_key&email=$email&smtp=1&format=1"
+#EOF

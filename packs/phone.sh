@@ -16,3 +16,4 @@ api_key=806e8db910e4a9e8f22415e0506debd0
 read -p "	$(echo -e $red[$green+$red]$white Enter Country Code ex TN : $nc)" co
 read -p "	$(echo -e $red[$green+$red]$white Enter Phone Number : $nc)" number
 curl "http://apilayer.net/api/validate?access_key=$api_key&number=$number&country_code=$co&format=1"
+#EOF

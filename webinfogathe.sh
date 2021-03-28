@@ -60,10 +60,8 @@ echo "		░▒███▒█▄ ▒▒█████▓  ▓█   ▓██▒
 echo "		░░ ▒▒░ ▒ ░▒▓▒ ▒ ▒  ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░ "
 echo "		 ░ ▒░  ░ ░░▒░ ░ ░   ▒   ▒▒ ░░ ░▒  ░ ░  ▒   ▒▒ ░  ░▒ ░ ▒░ "
 echo -e "		   ░   ░  ░░░ ░ ░   ░   ▒   ░  ░  ░    ░   ▒     ░░   ░  $nc"
-echo -e "	$red[$green+$red]$cyan Coded by	 $nc : Belahsan Ouerghi $red[$green+$red]$nc"
-echo -e "	$red[$green+$red]$cyan Contact$nc 	  : www.facebook.com/ouerghi.belahsan $red[$green+$red]$nc"
-echo -e "	$red[$green+$red]$cyan Youtube 	$nc  : www.youtube.com/channel/UCv9HdZbTOo0iBG5X2qaqmqg $red[$green+$red]$nc"
-echo -e "	$red[$green+$red]$cyan Github 	$nc  : www.github.com/TunisianEagles $red[$green+$red]$nc"
+echo -e "	$red[$green+$red]$cyan Coded by	 $nc : Krish Pranav $red[$green+$red]$nc"
+echo -e "	$red[$green+$red]$cyan Github 	$nc  : www.github.com/krishpranav $red[$green+$red]$nc"
 	}
 
 function back() {
